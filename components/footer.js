@@ -6,11 +6,8 @@ export default function Footer({ events }) {
       <div className="text-center lil-text mt-8">
         <div className="inline-block py-3 px-4 border bg-gray-200 rounded-lg">
           🍿 Draw Your Imagination.
-        </Link>
-        .
+        </div>
       </div>
-    </div>
-
     </footer >
   );
 }
